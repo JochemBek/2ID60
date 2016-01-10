@@ -1,0 +1,12 @@
+BACKEND
+-Inlog systeem
+-Dynamic user page (profile en list)
+-Search query en Results page (api info)
+-Database (user inlog/pass en list)
+-User list interaction (add/remove)
+
+
+FRONTEND
+-Opmaak/Styling/CSS
+-Content
+-Footer
